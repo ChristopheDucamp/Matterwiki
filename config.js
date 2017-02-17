@@ -1,3 +1,3 @@
 module.exports = {
-    'auth_secret': 'thisisasecretkeyforjwtauth'
+    'auth_secret': 'une cle secrete pour matterwiki'
 };
